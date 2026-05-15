@@ -1,0 +1,5 @@
+segment,customers,avg_recency,avg_frequency,avg_monetary,total_revenue,revenue_share
+Champions,425,46.1,23.1,11712.9,4977987.9,41.4
+Regulars,2784,97.4,6.4,2076.1,5779967.8,48.0
+High-Value One-Timers,1,438.0,1.0,11880.8,11880.8,0.1
+Lost Casuals,2607,341.2,1.7,484.4,1262722.1,10.5
